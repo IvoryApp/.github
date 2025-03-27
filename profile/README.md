@@ -1,10 +1,8 @@
-## Hi there 👋
-
-Welcome to **Ivory** 🙋‍♀️
-
-https://ivory-app.com
+## Welcome to **Ivory** 🙋‍♀️
 
 Ivory is a company specialized in musical transcription. Our research area falls within MIR (music information retrieval). We rely on state-of-the-art models to extract information from a symbolic representation of music.
+
+https://ivory-app.com
 
 > Sorry, our work is currently closed-source.
 
