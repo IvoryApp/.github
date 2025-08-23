@@ -6,5 +6,5 @@ https://ivory-app.com
 
 > Unfortunatly, our work is currently closed-source.
 
-Contact : lumbroso.marius@gmail.com
+Reach out : contact@ivory-app.com
 
